@@ -132,7 +132,9 @@ def client_program():
 if __name__ == '__main__':
     client_program()
 ~~~
-### output
+### output:
+![image](https://github.com/user-attachments/assets/a014c773-63cf-4898-98ce-13b7a91b3b72)
+
 
 ## Result:
 
